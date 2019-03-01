@@ -1,4 +1,5 @@
 # FTPDevelopment
+<<<<<<< HEAD
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.com/elimillera/FTPDevelopment.svg?branch=master)](https://travis-ci.com/elimillera/FTPDevelopment)
 This project attempts to demonstrate some different development tools for programming in R. This project will include continuous integration using Travis CI, unit testing using testthat, and functional testing using shinytest.
@@ -11,3 +12,6 @@ Unit testing doesn't add much value to a project this small, the unit tests are 
 
 ## Functional Testing
 Functional testing tests the end product and ensure all of the pieces are working together correctly. It tests the function of the overall application.
+=======
+[![Build Status](https://travis-ci.com/elimillera/FTPDevelopment.svg?branch=master)](https://travis-ci.com/elimillera/FTPDevelopment)
+>>>>>>> 045cc6c238d13357f411ad5dd6d05e5ad4c05d49
