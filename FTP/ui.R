@@ -3,7 +3,7 @@ library(shiny)
 shinyUI(fluidPage(
   
   # Application title
-  titlePanel("FTP"),
+  titlePanel("File Transfer Protocol"),
   
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
@@ -27,7 +27,7 @@ shinyUI(fluidPage(
     ),
     
     mainPanel(
-
+      tableOutput("status")
     )
   )
 ))
