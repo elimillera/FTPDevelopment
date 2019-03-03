@@ -14,8 +14,5 @@ Unit testing doesn't add much value to a project this small, the unit tests are 
 ## Functional Testing
 Functional testing tests the end product and ensure all of the pieces are working together correctly. It tests the function of the overall application.
 
-<<<<<<< HEAD
 ## Code Coverage
 Code Coverage tries to determine how much of your package is included in a unit test.
-=======
->>>>>>> f8701be111cc53fec919545cb122a652b7a10df9
